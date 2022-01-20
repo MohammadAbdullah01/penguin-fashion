@@ -33,7 +33,7 @@ nav{
     background-color: #FFFBF0;
 }
 .logo-img{
-    width: 291px;
+    max-width: 291px;
     height: 39px;
 }
 .navbar-ul{
